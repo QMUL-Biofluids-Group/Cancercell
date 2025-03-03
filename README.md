@@ -21,6 +21,6 @@ Folders are named after the figure labels in the paper. Each folder includes
 To achieve the match between experimental and simulation results and reproduce the figures in the paper
 1. Load image files and cell deformation profile files.
 2. Select the appropriate coordinate axes type (xy line).
-3. Scale the image and cell profiles, and carefully move it until the coordinate axes coincide, as shown in the below figure.
+3. Scale the image and cell profiles, and carefully move them until the coordinate axes coincide, as shown in the below figure.
 
 ![instruction](/usage/instruction.png "instruction")
